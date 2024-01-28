@@ -1,8 +1,8 @@
 
 ![github-header-image](https://github.com/alikeayush/alikeayush/assets/95569014/2e0ffad5-2200-4416-8b61-951733d71a3c)
 
-<h1 align="center">Hi 👋, I'm Aayush Kumar Prashar</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aayush K. Prashar</h1>
+<h3 align="center">A passionate Junior Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <a href="https://twitter.com/aayushkrp" target="blank"><img src="https://img.shields.io/twitter/follow/aayushkrp?logo=twitter&style=for-the-badge" alt="aayushkrp" /></a> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aayushkumarprashar@gmail.com**
 
-- ⚡ Fun fact **Ada Lovelace, the first computer programmer, was a woman. She wrote the first algorithm for Charles Babbage's Analytical Engine, shaping the future of programming. 🚀💻**
+- ⚡ Fun fact: Ada Lovelace, the first computer programmer, was a woman. She wrote the first algorithm for Charles Babbage's Analytical Engine, shaping the future of programming. 🚀💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
